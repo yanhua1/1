@@ -1,0 +1,37 @@
+Step to play the game:
+
+1. Click into the folder.
+2. Click on the blue gear icon that says "Game"
+3. Enjoy. 
+
+
+New for Beta 1.8
+Changelog
+- Jovi now gives you a Town Map rather than a Poke Doll (If you have alreayd passed this part of the game, then you can find it in Gemstone City in the Healing House).
+- Part of "the Flu" chapter in Red Chapter is playable. 
+- In Blue, Yellow and Green Chapter. You can find the Town Map in Daisy's room in Pallet Town.
+  -> If you're already passed this part in Green Chapter,  you can find it as an item in Celadon City Pokemon Centre
+  -> If you're already passed this part in Yellow Chapter, you can find it as an item in  the Power Plant.
+- Inplemented "Affection System" earlier into the game (Kuro Town). 
+  -> If you already passed that point, then the explanation for it will occur in Gemstone City.
+- Fixed quest font
+- Normal Murkrow can't be found in Route 139 anymore. It's replaced with orre form
+- Cleaned up some tiles
+- Fixed up a glitch where the Murkrow Statue switch sometimes doesn't work. 
+- Fixed a freeze glitch in Cipher's Lair
+- Fixed HM Dive Freeze Glitch
+- Fixed the glitch where if you transfer your save from Beta 1.4 to Beta 1.7, you won't be able to proceed to Chapter 5 from Chapter 4 in Yellow Chapter. (Now, it'll automatically transfer you to Chapter 5 when you enter Route 8). 
+- Fixed a glitch where Erika's scene doesn't play correctly on certain days. 
+- Fixed the poor guy stuck in the wall in Celadon University
+- Fixed how Blue can talk to Chansey 
+- Fixed timeline issues in Greenchapter
+- Fixed Yellow portrait appearing instead of Green. 
+
+Glitches
+- Sometimes the speed button may cause crashes. 
+- Map doesn't work correctly (Will work in Beta 2). 
+- Battle scene is reflective of the surrounding. 
+
+
+Make sure you check here to see where the beta ends for each chapter
+https://discord.gg/HeC8XmX7
